@@ -7,11 +7,6 @@ Why Room over SQLITE?
 
 ## A simple demonstration of room library implementation
 
-### Clone this repository:
-```
-git clone https://github.com/TankRaj/TODO_Room.git
-``````
 
-Now import the project in android studio and modify as per your requirements.
 
 **Happy Coding!!! :smile:**
